@@ -1,4 +1,4 @@
-# **AI-Engineering**
+# **AI Engineering**
 ---
 IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario en un programa adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
 
@@ -9,7 +9,7 @@ IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario
 
 
 
-## Automatizaciones
+## Automatizaciones con IA
 
 
 
