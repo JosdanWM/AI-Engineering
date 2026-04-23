@@ -5,7 +5,9 @@ IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario
 ---
 
 ## Fundamentos de Ingeniería de IA
-
+- Curso de Introducción a la IA - Conceptos que Necesitas Entender (YT)
+  -  https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
+- 
 
 
 
