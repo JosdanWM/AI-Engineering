@@ -9,7 +9,11 @@ IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario
   -  https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
 - 
 
-
+## Introducción a los Servicios de IA
+- Introducción a Claude, Claude Cowork y Claude Code (anaxia)...
+- Claude - Domina Cowork, Claude Code, Skills y Plugins (U) ...
+  - udemy.com/course/claude-cowork-claude-code-skills-plugins/
+- 
 
 ## Automatizaciones con IA
 
