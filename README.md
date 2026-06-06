@@ -1,24 +1,41 @@
 # **AI Engineering**
----
-IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario en un programa adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
 
----
+## **Fundamentos de Ingeniería de IA**
 
-## Fundamentos de Ingeniería de IA
-- Curso de Introducción a la IA - Conceptos que Necesitas Entender (YT)
-  -  https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
+- **Introducción a la IA - Conceptos que Necesitas Entender**
+  * https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
+  * https://cursor.com/es/learn/how-ai-models-work
 - 
 
-## Introducción a los Servicios de IA
-- Introducción a Claude, Claude Cowork y Claude Code (anaxia)...
-- Claude - Domina Cowork, Claude Code, Skills y Plugins (U) ...
-  - udemy.com/course/claude-cowork-claude-code-skills-plugins/
-- 
+## **Introducción a los Servicios de IA**
 
-## Automatizaciones con IA
+- **Claude, Claude Cowork y Claude Code**...
+  * udemy.com/course/claude-cowork-claude-code-skills-plugins/
+  * 
+- **Gemini, Gemini Studio y Antigravity**
+  * 
+- **ChatGPT, Codex**
+  *
 
 
+## **Automatizaciones con IA**
 
-## Agentes de IA
+- **n8n**
+  * https://ed.team/cursos/n8n?source=web&section=chatEDT
+  * https://ed.team/cursos/agentes-n8n?source=web&section=chatEDT
+  * 
 
+
+## **Agentes de IA**
+
+- **OpenClaw**
+  * https://platzi.com/cursos/curso-openclaw/
+  * 
+- **Claude Code**
+- **Codex**
+- **Antigravity**
+
+- **Seguridad para Agentes de IA**
+  * https://www.youtube.com/watch?v=RnpEodbC974
+  * 
 
